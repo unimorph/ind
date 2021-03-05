@@ -10,9 +10,9 @@ Source:
 
 
 ## Annotators
-Clara Vania
-Totok Suhardijanto
-Zahroh Nuriah
+- Clara Vania
+- Totok Suhardijanto
+- Zahroh Nuriah
 
 ## Paradigm Samples
 
